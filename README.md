@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-[![HitCount](http://hits.dwyl.com/{mharshita}/{food_finder}.svg)](http://hits.dwyl.com/{mharshita}/{food_finder})
+[![HitCount](http://hits.dwyl.com/{mharshita}/{mharshita}.svg)](http://hits.dwyl.com/{mharshita}/{mharshita})
