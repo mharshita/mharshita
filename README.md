@@ -1,18 +1,39 @@
-### Heyy!! 👋
+## Heyy!! I am [Harshita] (mharshita.github.io) 👋
 ---
-<p>
-  <a href="https://twitter.com/_mharshita">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mharshita">
-   <a/>
-   <a href="mailto:manglaharshita@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manglaharshita@gmail.com">
-   <a/>
-    <a href="https://www.linkedin.com/in/harshita-mangla-6ab57a192">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-mangla-6ab57a192">
-  <a/>
-  </p>
 
-  ![Harshita GitHub statistic](https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true)
+<a href="https://twitter.com/_mharshita">
+  <img align="left" alt="Harshita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/harshita-mangla-6ab57a192">
+  <img align="left" alt="Harshita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mharshita">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harshita-mangla-6ab57a192">
+<img align="left" alt="Harshita's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+</br>
+
+<a href="https://github.com/mharshita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharshita&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mharshita">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 <!--
 
@@ -26,4 +47,4 @@
 - ⚡ Fun fact: ...
 -->
 ---
-[![HitCount](http://hits.dwyl.com/{mharshita}/{mharshita}.svg)](http://hits.dwyl.com/{mharshita}/{mharshita})
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharshita&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>
