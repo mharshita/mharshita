@@ -13,6 +13,7 @@
 <img align="left" alt="Harshita's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
+</br>
 
 I am a second year undergraduate at Guru Jambheshwar University of Science and Technology, Hisar currently working on web development.
 
