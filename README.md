@@ -1,4 +1,4 @@
-## Heyy!! I am [Harshita](mharshita.github.io) 👋
+## Heyy!! I am [Harshita](https://mharshita.github.io) 👋
 
 <a href="https://twitter.com/_mharshita">
   <img align="left" alt="Harshita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,7 +14,7 @@
 </a>
 </br>
 
----
+I am a second year undergraduate at Guru Jambheshwar University of Science and Technology, Hisar currently working on web development.
 
 **Languages and Tools:**
 
@@ -30,10 +30,10 @@
 </br>
 
 <a href="https://github.com/mharshita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharshita&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharshita&theme=onedark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mharshita">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true&theme=onedark&line_height=27" alt="Harshita's github stats"/>
 </a>
 
 <!--
@@ -48,5 +48,6 @@
 - ⚡ Fun fact: ...
 -->
 ---
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharshita&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>-->
-[![HitCount](http://hits.dwyl.com/{mharshita}/{mharshita}.svg)](http://hits.dwyl.com/{mharshita}/{mharshita})
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharshita&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>
+
+[![HitCount](http://hits.dwyl.com/mharshita/mharshita.svg)](http://hits.dwyl.com/mharshita/mharshita)
