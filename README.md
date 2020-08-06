@@ -1,5 +1,4 @@
-## Heyy!! I am [Harshita] (mharshita.github.io) 👋
----
+## Heyy!! I am [Harshita](mharshita.github.io) 👋
 
 <a href="https://twitter.com/_mharshita">
   <img align="left" alt="Harshita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,6 +13,8 @@
 <img align="left" alt="Harshita's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
+
+
 
 **Languages and Tools:**
 
