@@ -48,4 +48,5 @@
 - ⚡ Fun fact: ...
 -->
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharshita&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharshita&label=Views&color=blue&style=plastic" alt="mharshita" /> </p>-->
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
