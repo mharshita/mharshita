@@ -33,10 +33,10 @@ I am a second year undergraduate at Guru Jambheshwar University of Science and T
 </br>
 
 <a href="https://github.com/mharshita">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharshita&theme=onedark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharshita&theme=onedark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mharshita">
- <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true&theme=onedark&line_height=27" alt="Harshita's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mharshita&show_icons=true&theme=onedark&line_height=27" alt="Harshita's github stats"/>
 </a>
 
 <!--
