@@ -1,4 +1,5 @@
-## Heyy!! I am [Harshita](https://mharshita.github.io) 👋
+## Heyy!! I am [Harshita](https://mharshita.github.io) <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<!-- 👋 -->
 
 <a href="https://twitter.com/_mharshita">
   <img align="left" alt="Harshita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
