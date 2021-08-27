@@ -16,7 +16,7 @@
 </br>
 </br>
 
-I am a second year undergraduate at Guru Jambheshwar University of Science and Technology, Hisar currently working on web development.
+I am a third year undergraduate at Guru Jambheshwar University of Science and Technology. I love Open Source. I am a Google Summer of Code 2021 Student Developer with Python Software Foundation.
 
 **Languages and Tools:**
 
