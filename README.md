@@ -4,13 +4,13 @@
 <a href="https://twitter.com/_mharshita">
   <img align="left" alt="Harshita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/harshita-mangla-6ab57a192">
+<a href="https://linkedin.com/in/harshitamangla">
   <img align="left" alt="Harshita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mharshita">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/harshita-mangla-6ab57a192">
+<a href="mailto:manglaharshita@gmail.com">
 <img align="left" alt="Harshita's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
